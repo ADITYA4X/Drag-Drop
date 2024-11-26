@@ -1,1 +1,1 @@
-{"root":["./src/app.ts","./src/drag-drop-interfaces.ts","./src/project-model.ts"],"version":"5.6.3"}
+{"root":["./src/app.ts","./src/components/base-component.ts","./src/components/project-input.ts","./src/components/project-item.ts","./src/components/project-list.ts","./src/decorators/autobind.ts","./src/models/drag-drop.ts","./src/models/project.ts","./src/state/project-state.ts","./src/util/validation.ts"],"version":"5.6.3"}
